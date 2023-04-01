@@ -1,4 +1,4 @@
-# minibullet-ut
+# roboverse-deltaco
 
 ## Introduction
 This codebase contains the environments and benchmark for the DeL-TaCo paper:
@@ -113,3 +113,4 @@ python scripts/video_logger_scripted_policy.py -e Widow250PickPlaceGRFBLRObjCSRn
   year={2023},
 }
 ```
+
