@@ -31,7 +31,7 @@ python scripts/scripted_collect.py -e Widow250PickPlaceGRFBLRObjCSRndDistractorR
 ```
 
 ### To collect data on multiple threads in parallel
-See our released datasets page for downloads to our open-sourced datasets.
+See our released [datasets page](https://deltaco-robot.github.io/datasets) for downloads to our open-sourced datasets.
 
 The following scripts only collect successful trajectories, where a success is defined by the `-a` env info param being true. To collect all trajectories regardless of their success, add the flag `--save-all`.
 
