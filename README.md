@@ -21,7 +21,9 @@ python setup.py develop
 ```
 
 ### Clone bullet-objects
-If needed, update the filepaths stored in the variables `SHAPENET_ASSET_PATH` and `BASE_ASSET_PATH` in `roboverse/bullet/object_utils.py`.
+Clone the [bullet-objects repo](https://github.com/Alacarter/bullet-objects) that contains object mesh files for simulation. You will need to email me at albertyu@utexas.edu with your github username to gain access to this private repo.
+
+Afterwards, update the filepaths stored in the variables `SHAPENET_ASSET_PATH` and `BASE_ASSET_PATH` in `roboverse/bullet/object_utils.py` to contain the filepath of where you cloned the bullet-objects repo.
 
 ## Scripted data collection
 
